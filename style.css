@@ -1,22 +1,21 @@
-
-.heading
-{
-font-size: 25px;
-width: 100%;
-margin: 0px;
-}
-
-#status , #Number_Of_Objects
-{
-font-size: 18px;
-float: left right;
-}
-body{
-    background-size: cover;
-    background-position: center;
-}
-canvas{
-box-shadow:10px 10px 10px black;
-border-radius: 10px;
-margin-top: 30px;
-}
+.heading{
+    width: 100%;
+     text-align: center;
+     background-color: rgb(57, 57, 255);
+     color: white;
+ }
+ .heading h3{
+     display: inline;
+ }
+ .heading button{
+    float: right;
+    border: 1px solid white;
+ 
+ }
+ .big_image{
+     width: 100%;
+ }
+ #start, #staus
+ {
+     font-size: 22px;
+ }
